@@ -3,7 +3,7 @@ express-subdomains
 
 > Subdomains routing for Express
 
-My version of subdomains module Express. It also automatically removes unnecessary 'www' subdomain.
+My version of subdomains module for Express. It also automatically removes unnecessary 'www' subdomain.
 
 ```javascript
 var express = require('express');
