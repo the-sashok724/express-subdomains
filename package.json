@@ -1,0 +1,27 @@
+{
+	"name": "subdomains",
+	"author": "Alexander Ksenofontov <mail@sashok724.net>",
+	"contributors": [
+		{ "name": "Alexander Ksenofontov", "email": "mail@sashok724.net" }
+	],
+	"homepage": "https://github.com/the-sashok724/express-subdomains/",
+	"description": "Express Subdomains Middleware.",
+	"version": "1.0.0",
+	"repository": {
+	"type": "git",
+		"url": "git://github.com/the-sashok724/express-subdomains.git"
+	},
+	"keywords": [ "express","subdomains","middleware" ],
+	"main": "./subdomains",
+	"engines": {
+		"node": ">= 0.1.0"
+	},
+	"dependencies": {},
+	"bugs": {
+		"url": "https://github.com/the-sashok724/express-subdomains/issues"
+	},
+	"licenses": [{
+		"type": "GPLv3",
+		"url": "https://github.com/the-sashok724/express-subdomains/LICENSE"
+	}]
+}
